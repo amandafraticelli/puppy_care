@@ -1,22 +1,28 @@
 body {background-color: #333; color: gray;}
 
-#facts { border:solid 10px #7cb4cb;
-				padding:20px;
-				width:1180px;
-				height:1000px;
-				margin:auto;
-				background-color:#d1d4d5;}
+#maincontainer {border:solid 10px #7cb4cb;
+			    padding:20px;
+			    width:50%;
+			    margin:auto;
+			    background-color:#d1d4d5;}
+		
 
 
 nav {background-color: white; 
-		  text-align: center;
-		  margin: auto;    
-		  padding-left:10px;
-		  padding-right:10px;
-		  padding-top:10px;    
-		  padding-bottom:10px;
-		  border: solid #130303 2px; width: 90%;}	
+	 text-align: center;
+	 margin: auto;    
+	 padding-left:10px;
+	 padding-right:10px;
+	 padding-top:10px;    
+	 padding-bottom:10px;
+	 border: solid #130303 2px; width: 90%;}	
 
 
 .images { margin: 0px;}	
+
+#facts {background-color: #BFF2C9;
+		border: solid 5px #C1DFF7;
+		padding: 10px;
+		position: center;}
+
 	  			
